@@ -15,7 +15,7 @@ A colorful, animated calculator built with pure HTML, CSS, and JavaScript.
 Just open `index.html` in any browser. No installation needed.
 
 ## Live Demo
-[View here](https://suvradipghosh07.github.io/student-calculator/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://suvradipghosh07.github.io/student-calculator/)
 
 ## License
 MIT
